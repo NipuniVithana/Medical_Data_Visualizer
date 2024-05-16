@@ -34,3 +34,13 @@ The tasks performed in this project include:
 
 ## heatmap
 ![heatmap](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/9d492408-0c17-401c-907d-d69a88baeaad)
+
+## Technologies Used
+
+- Python
+- pandas
+- seaborn
+- matplotlib
+- numpy
+
+
