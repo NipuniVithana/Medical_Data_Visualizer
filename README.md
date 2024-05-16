@@ -31,3 +31,6 @@ The tasks performed in this project include:
 
 ## catplot
 ![catplot](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/0569dfea-a3b3-4d97-a771-1d925614163d)
+
+## heatmap
+![heatmap](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/9d492408-0c17-401c-907d-d69a88baeaad)
