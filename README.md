@@ -30,3 +30,4 @@ The tasks performed in this project include:
 5. Creating a correlation matrix and plotting it as a heatmap.
 
 ## catplot
+![catplot](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/0569dfea-a3b3-4d97-a771-1d925614163d)
