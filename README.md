@@ -29,12 +29,6 @@ The tasks performed in this project include:
 4. Cleaning the data by filtering out incorrect patient segments.
 5. Creating a correlation matrix and plotting it as a heatmap.
 
-## catplot
-![catplot](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/0569dfea-a3b3-4d97-a771-1d925614163d)
-
-## heatmap
-![heatmap](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/9d492408-0c17-401c-907d-d69a88baeaad)
-
 ## Technologies Used
 
 - Python
@@ -42,5 +36,13 @@ The tasks performed in this project include:
 - seaborn
 - matplotlib
 - numpy
+
+## catplot
+![catplot](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/0569dfea-a3b3-4d97-a771-1d925614163d)
+
+## heatmap
+![heatmap](https://github.com/NipuniVithana/Medical_Data_Visualizer/assets/99274261/9d492408-0c17-401c-907d-d69a88baeaad)
+
+
 
 
